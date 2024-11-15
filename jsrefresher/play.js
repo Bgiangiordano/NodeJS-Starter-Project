@@ -1,3 +1,4 @@
+# I think you should implement python in this 
 const name = 'Max';
 let age = 20;
 const hasHobbies = true;
